@@ -1,2 +1,2 @@
-# cpansewicz@github.io
+# cpansewicz.github.io
 pages repo
